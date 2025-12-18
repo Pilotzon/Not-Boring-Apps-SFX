@@ -1,6 +1,6 @@
 # 🎧 Not Boring Apps Sound Effects
 
-A carefully curated collection of sound effects inspired by **Not Boring Apps**, focused on delightful, expressive, and polished user interface interactions.
+A carefully curated collection of sound effects by **Not Boring Apps**, focused on delightful, expressive, and polished user interface interactions.
 
 ---
 
@@ -12,6 +12,7 @@ The goal is **reference, learning, and experimentation**, not redistribution or 
 
 > [!NOTE]
 > These sounds are intended to showcase high-quality UI sound design principles and are useful even when quickly browsing or skimming the collection.
+> This is just a re-upload of the sound effects. These were found on the internet.
 
 ---
 
@@ -22,14 +23,9 @@ The goal is **reference, learning, and experimentation**, not redistribution or 
 - Confirmations and success sounds  
 - Alerts and subtle notifications  
 
-All files are provided **as-is**, without modification guarantees.
-
 ---
 
 ## 🛠️ Intended Use
-
-> [!TIP]
-> Use these sounds as inspiration when designing your own original sound effects. Recreating the *feel* is safer than reusing the files directly.
 
 Recommended uses:
 - UI/UX sound design study  
@@ -54,10 +50,6 @@ Recommended uses:
 
 > [!WARNING]
 > Do **NOT** use these sound effects in commercial products, published apps, or monetized content unless you have explicit legal permission.
-
-If you are unsure about your rights:
-- Assume you **do not** have permission
-- Do not ship or publish with these assets
 
 ---
 
